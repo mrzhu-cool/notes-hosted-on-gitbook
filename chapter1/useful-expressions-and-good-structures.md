@@ -12,3 +12,5 @@ As a reminder, the key insights that motivate this algorithm are that...
 
 Today, artificial intelligence \(AI\) is a thriving field with many practical applications and active research topics.
 
+One of the key challenges in artificial intelligence is how to get this informal knowledge into a computer.
+
