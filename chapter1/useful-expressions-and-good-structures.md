@@ -10,3 +10,5 @@ In other words, given images or regions A and B, find for every patch in A the n
 
 As a reminder, the key insights that motivate this algorithm are that...
 
+Today, artificial intelligence \(AI\) is a thriving field with many practical applications and active research topics.
+
