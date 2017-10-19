@@ -14,3 +14,5 @@ Today, artificial intelligence \(AI\) is a thriving field with many practical ap
 
 One of the key challenges in artificial intelligence is how to get this informal knowledge into a computer.
 
+Surpass the ... barrier.
+
