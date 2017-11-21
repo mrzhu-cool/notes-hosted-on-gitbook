@@ -16,3 +16,5 @@ One of the key challenges in artificial intelligence is how to get this informal
 
 Surpass the ... barrier.
 
+We show both theoretically and empirically that the algorithm has good convergence properties for tested imagery up to 2MP, and our CPU implementation shows speedups of 20-100 times versus kd-trees with PCA.
+
