@@ -20,3 +20,5 @@ We show both theoretically and empirically that the algorithm has good convergen
 
 Script identification facilitates many important applications.
 
+A Markov random field, also known as a Markov network or an undirected graphical model \(Kindermann and Snell, 1980\), has a set of nodes each of which corresponds to a variable or group of variables, as well as a set of links each of which connects a pair of nodes.
+
