@@ -24,3 +24,5 @@ A Markov random field, also known as a Markov network or an undirected graphical
 
 However, these activities can be viewed as two facets of the same field, and together they have undergone substantial development over the past ten years.
 
+Let us consider a CNN layer and its corresponding activation tensor A ∈ R \(C × H × W\) , which consists of C feature planes with spatial dimensions H × W. 
+
